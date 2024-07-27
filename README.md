@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   https://github.com/vivekcodz222/Image_captioning_with_sentiment_analysis
+   https://github.com/Yash1-23/Image_captioning_with_sentiment_analysis
    ```
 
 2. Install the required dependencies:
@@ -73,8 +73,8 @@ Potential avenues for improvement and expansion of this project include:
 
 ## Contributors
 
-- [VIVEKANANDA REDDY CHALLA](https://github.com/Vvivekcodz222)
 - [YASHWANTH SINGH ](https://github.com/yash1-23)
+- [VIVEKANANDA REDDY CHALLA](https://github.com/Vvivekcodz222)
 - [LAKSHAYA TYAGI](https://github.com/lakshayatyagi)
 
 ## License
